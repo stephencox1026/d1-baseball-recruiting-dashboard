@@ -2,6 +2,15 @@
 
 # D1 Baseball Recruitment Dashboard
 
+## How it works
+
+```mermaid
+flowchart LR
+  raw["Player stats (Power-4 conferences)"] --> weights["Weighted scoring model"]
+  weights --> rank["Ranked prospect shortlist"]
+  rank --> ui["Streamlit dashboard: filters + rationale"]
+```
+
 A comprehensive recruitment tool for scouting Division 1 college baseball players from Power 4 conferences. This dashboard identifies top prospects who have not been drafted in the MLB Draft, ranking them based on specific performance criteria.
 
 ## Features
