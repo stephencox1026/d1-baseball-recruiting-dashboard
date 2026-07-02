@@ -1,3 +1,5 @@
+> **Deployable Streamlit decision-support tool** that ranks prospects via a transparent weighted-scoring model — analogous to lead scoring, vendor selection, or talent analytics.
+
 # D1 Baseball Recruitment Dashboard
 
 A comprehensive recruitment tool for scouting Division 1 college baseball players from Power 4 conferences. This dashboard identifies top prospects who have not been drafted in the MLB Draft, ranking them based on specific performance criteria.
