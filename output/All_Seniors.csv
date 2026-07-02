@@ -1,0 +1,329 @@
+name,team,conference,position,class_year
+Chris Stanfield,LSU,SEC,Outfield,Senior
+Tanner Reaves,LSU,SEC,Infield,5th-year Senior
+Brayden Simpson,LSU,SEC,Infield,Senior
+Seth Dardar,LSU,SEC,Infield,5th-year Senior
+Zac Cowan,LSU,SEC,Right-Handed Pitcher,Senior
+Dax Dathe,LSU,SEC,Right-Handed Pitcher,5th-year Senior
+Zach Yorke,LSU,SEC,Infield,Senior
+Grant Fontenot,LSU,SEC,Right-Handed Pitcher,5th-year Senior
+Connor Benge,LSU,SEC,Right-Handed Pitcher,Senior
+Jacob Humphrey,Vanderbilt,SEC,UTL,Senior
+Ryan Ginther,Vanderbilt,SEC,LHP,Senior
+JD Rogers,Vanderbilt,SEC,OF,Senior
+Tommy O'Rourke,Vanderbilt,SEC,RHP,Graduate
+Ryan Black,Georgia,SEC,INF,Sr.
+Michael O'Shaughnessy,Georgia,SEC,INF,Sr.
+Kolby Branch,Georgia,SEC,INF,Sr.
+Matt Scott,Georgia,SEC,RHP,Sr.
+Bryce Calloway,Georgia,SEC,1B/RHP,Gr.
+Caden Aoki,Georgia,SEC,RHP,Gr.
+Teddy Brennan,Georgia,SEC,LHP,Gr.
+Andrew Behnke,Georgia,SEC,LHP,Gr.
+Jordy Oriach,Georgia,SEC,UTIL,Sr.
+Brennan Hudson,Georgia,SEC,C/INF/OF,Sr.
+Grant Edwards,Georgia,SEC,RHP,Gr.
+Cole Koniarsky,Georgia,SEC,OF,Gr.
+Thomas Ellisen,Georgia,SEC,RHP,Gr.
+Lucas Morici,Georgia,SEC,RHP,Sr.
+Mason Kosowick,Georgia,SEC,RHP,Gr.
+Logan Sutter,South Carolina,SEC,Infielder,Fifth Year
+Talmadge LeCroy,South Carolina,SEC,Catcher,Fifth Year
+Ethan Lizama,South Carolina,SEC,Outfielder,Senior
+Jake Randolph,South Carolina,SEC,Catcher,Senior
+Cullen Horowicz,South Carolina,SEC,Right Handed Pitcher,Senior
+Luke Yuhasz,South Carolina,SEC,Outfielder,Senior
+Marko Sipila,Ole Miss,SEC,RHP,Sr.
+Collin Reuter,Ole Miss,SEC,C/IF,Sr.
+Daniel Pacella,Ole Miss,SEC,OF,Sr.
+Hunter Elliott,Ole Miss,SEC,LHP,Sr.
+Judd Utermark,Ole Miss,SEC,IF,Sr.
+Tristan Bissetta,Ole Miss,SEC,OF,Sr.
+Landon Waters,Ole Miss,SEC,RHP,Sr.
+Will Furniss,Ole Miss,SEC,IF,Sr.
+Tyler Cerny,Kentucky,SEC,INF,Senior
+Will Marcy,Kentucky,SEC,OF,Senior
+Alex Duffey,Kentucky,SEC,C/UT,Senior
+Jack Bennett,Kentucky,SEC,RHP,Senior
+Nile Adcock,Kentucky,SEC,RHP,Senior
+Luke Lawrence,Kentucky,SEC,INF,Senior
+Scott Campbell Jr.,Kentucky,SEC,OF,Senior
+Ira Austin IV,Kentucky,SEC,RHP,Senior
+Carson Hansen,Kentucky,SEC,OF,Senior
+Jackson Soucie,Kentucky,SEC,LHP,Senior
+Carter McCulley,Florida State,SEC,INF,Sr.
+Eli Putnam,Florida State,SEC,INF,R-Sr.
+Jacob Marlowe,Florida State,SEC,LHP,R-Sr.
+Ben Barrett,Florida State,SEC,RHP,Sr.
+Gabe Nard,Florida State,SEC,RHP,Sr.
+Ty Dalley,Clemson,ACC,OF,Sr.
+Jack Crighton,Clemson,ACC,OF/INF,Sr.
+Jacob Jarrell,Clemson,ACC,C,Sr.
+Nathan Dvorsky,Clemson,ACC,RHP,Sr.
+Jay Dillard,Clemson,ACC,INF,*Jr. (Graduate)
+Joe Allen,Clemson,ACC,RHP,Sr. (Graduate)
+Michael Sharman,Clemson,ACC,LHP,*Sr.
+Luke Kissenberth,Clemson,ACC,RHP,**Sr. (Graduate)
+Coltin Quagliano,Duke,ACC,INF,Gr.
+Tyler Albright,Duke,ACC,OF,Sr.
+Matthew Strand,Duke,ACC,C,Gr.
+Ben Petrone,Duke,ACC,INF,Gr.
+Aidan Weaver,Duke,ACC,RHP,Sr.
+Edward Hart,Duke,ACC,LHP,Sr.
+Bobby Marsh,Duke,ACC,1B/OF,Gr.
+Anthony Runfola,Duke,ACC,C/OF,Gr.
+David Boisvert,Duke,ACC,RHP,Gr.
+Caleb Anderson,Duke,ACC,RHP,Gr.
+Andy Leon,Duke,ACC,RHP,Gr.
+Roman DiGiacomo,Duke,ACC,RHP,Sr.
+Drew Bryan,Duke,ACC,RHP,Gr.
+Grayson Walker,Duke,ACC,RHP,Gr.
+Will Ray,Wake Forest,ACC,RHP,Gr.
+Austin Hawke,Wake Forest,ACC,INF,Sr.
+Zach Johnston,Wake Forest,ACC,LHP,Sr.
+Luke Schmolke,Wake Forest,ACC,RHP,Sr.
+Jimmy Keenan,Wake Forest,ACC,C,Sr.
+Dalton Bargo,NC State,ACC,UTL,Sr.
+Brayden Fraasman,NC State,ACC,OF,Sr.
+Wyatt Peifer,NC State,ACC,INF,Sr.
+Danny Heintz,NC State,ACC,RHP,Gr.
+Derek Williams,Miami,ACC,Outfield,Graduate Student
+Jake Ogden,Miami,ACC,Infield,Senior
+Max Galvin,Miami,ACC,Outfield,Redshirt Senior
+Lyndon Glidewell,Miami,ACC,Right-handed pitcher,Senior
+Rob Evans,Miami,ACC,Left-handed pitcher,Senior
+Michael Taylor,Miami,ACC,Right-handed pitcher,Senior
+Packy Bradley-Cooney,Miami,ACC,Right-handed pitcher,Graduate Student
+Jackson Hugus,Miami,ACC,Catcher,Graduate Student
+Brylan West,Miami,ACC,Infield,Graduate Student
+Ryan Bilka,Miami,ACC,Right-handed pitcher,Senior
+Gunnar Johnson,Boston College,ACC,C,Gr.
+Owen DeShazo,Boston College,ACC,IF,Sr.
+Kyle Wolff,Boston College,ACC,1B,Sr.
+Tyler Mudd,Boston College,ACC,LHP,Gr.
+Carter Hendrickson,Boston College,ACC,OF,Gr.
+Sean Hard,Boston College,ACC,RHP,Gr.
+John Kwiatkowski,Boston College,ACC,LHP,Sr.
+Jack Toomey,Boston College,ACC,OF,Sr.
+Bobby Chicoine,Boston College,ACC,RHP,Sr.
+Nick Wang,Boston College,ACC,INF,Gr.
+Matthew Spada,Boston College,ACC,LHP,Sr.
+A.J. Colarusso,Boston College,ACC,LHP,Sr.
+Peter Schaefer,Boston College,ACC,RHP,Gr.
+Andrew Graham,Notre Dame,ACC,INF,Graduate Student
+Drew Berkland,Notre Dame,ACC,OF/C,Graduate Student
+Ty Uber,Notre Dame,ACC,RHP,Graduate Student
+Xavier Hirsch,Notre Dame,ACC,RHP,Senior
+Evan Clark,Notre Dame,ACC,LHP,Graduate Student
+Radek Birkholz,Notre Dame,ACC,RHP,Graduate Student
+Eli Thurmond,Notre Dame,ACC,RHP,Graduate Student
+Noah Rooney,Notre Dame,ACC,LHP,Senior
+AJ Nessler,Pittsburgh,ACC,OF,Sr.
+Jake Kendro,Pittsburgh,ACC,INF,Sr.
+Joey Baran,Pittsburgh,ACC,C,Gr.
+Anthony LaSala,Pittsburgh,ACC,INF,Sr.
+Caden Dulin,Pittsburgh,ACC,INF,Sr.
+Aidan McAskie,Pittsburgh,ACC,OF/INF,Gr.
+Mikey Gray,Pittsburgh,ACC,LHP,Sr.
+Noah Czajkowski,Pittsburgh,ACC,RHP,Sr.
+Sam Bryan,Pittsburgh,ACC,RHP,R-Sr.
+Eddie Smink,Pittsburgh,ACC,RHP,Sr.
+Lorenzo Carrier,Pittsburgh,ACC,OF,R-Sr.
+Chase Kriebel,Pittsburgh,ACC,LHP,Sr.
+Gavin Miller,Pittsburgh,ACC,INF,Sr.
+David Leslie,Pittsburgh,ACC,RHP,Gr.
+Vincent Spizzoucco,Pittsburgh,ACC,LHP,Gr.
+Carter Dierdorf,Pittsburgh,ACC,INF,Sr.
+Zach Walsh,Pittsburgh,ACC,OF,Gr.
+Daniel McAuliff,Pittsburgh,ACC,RHP,Gr.
+Andrew Luczak,Pittsburgh,ACC,RHP,Gr.
+Jackson Cooke,Pittsburgh,ACC,C/INF,Sr.
+Jett Buck,Nebraska,Big Ten,INF,Sr.
+Joshua Overbeek,Nebraska,Big Ten,INF,Sr.
+Rhett Stokes,Nebraska,Big Ten,INF,Sr.
+Cole Kitchens,Nebraska,Big Ten,INF,Sr.
+Dylan Carey,Nebraska,Big Ten,INF,Sr.
+Kevin Mannell,Nebraska,Big Ten,RHP,R-Sr.
+Caleb Clark,Nebraska,Big Ten,LHP,Sr.
+Grant Cleavinger,Nebraska,Big Ten,LHP,Sr.
+Lynden Bruegman,Nebraska,Big Ten,LHP,Sr.
+Jalen Worthley,Nebraska,Big Ten,LHP,Sr.
+Caleb Wulf,Iowa,Big Ten,UTIL,Sr.
+Gable Mitchell,Iowa,Big Ten,IF,Sr.
+Joe Husak,Iowa,Big Ten,RHP,Gr.
+Logan Runde,Iowa,Big Ten,RHP,Gr.
+Bryce Phelps,Iowa,Big Ten,OF,Gr.
+Miles Risley,Iowa,Big Ten,OF,Sr.
+Justin Hackett,Iowa,Big Ten,RHP,Sr.
+Mitch Wood,Iowa,Big Ten,UTIL,Sr.
+Joey Nerat,Iowa,Big Ten,OF,Sr.
+Matthew Delgado,Iowa,Big Ten,C,Gr.
+Ganon Archer,Iowa,Big Ten,RHP,Sr.
+Alistair Morin,Maryland,Big Ten,RHP,R-Sr.
+Aden Hill,Maryland,Big Ten,OF,Sr.
+Jack Zebig,Illinois,Big Ten,INF,Sr.
+Richie LaCien,Illinois,Big Ten,RHP,Gr.
+Daniel Contreras,Illinois,Big Ten,C,Gr.
+Liam McKillop,Illinois,Big Ten,RHP,Gr.
+Cole Warehime,Illinois,Big Ten,OF/1B,Sr.
+Reed Gannon,Illinois,Big Ten,LHP,Sr.
+Mitch Dye,Illinois,Big Ten,RHP,Sr.
+Nick Groves,Illinois,Big Ten,OF,Sr.
+Will Johannes,Illinois,Big Ten,C/1B,Sr.
+Ben Plumley,Illinois,Big Ten,RHP,Sr.
+Sam Reed,Illinois,Big Ten,LHP,Sr.
+Easton Richter,Minnesota,Big Ten,OF/RHP,Sr.
+Jack Mosh,Minnesota,Big Ten,INF,Sr.
+Davis Hamilton,Minnesota,Big Ten,INF,Sr.
+Sam Hunt,Minnesota,Big Ten,C,R-Sr.
+Michael Lippe,Minnesota,Big Ten,OF,Sr.
+Weber Neels,Minnesota,Big Ten,C/INF,Sr.
+Caden Capomaccio,Minnesota,Big Ten,RHP,Sr.
+Michael Starrs,Minnesota,Big Ten,INF,Gr.
+Jack Bello,Minnesota,Big Ten,INF,Sr.
+Joe Sperry,Minnesota,Big Ten,RHP/DH,Sr.
+Jake Elbeery,Minnesota,Big Ten,INF,Gr.
+Josh Kirchhoff,Minnesota,Big Ten,RHP,Sr.
+Ben Gregory,Minnesota,Big Ten,RHP,Sr.
+Logan Winkelman,Minnesota,Big Ten,LHP,Sr.
+Brandon Jaenke,Minnesota,Big Ten,RHP,Sr.
+Henry Kaczmar,Ohio State,Big Ten,,Sr.
+Noah Furcht,Ohio State,Big Ten,,Gr.
+Grant Mangrum,Ohio State,Big Ten,,Gr.
+Zach Weber,Ohio State,Big Ten,,Gr.
+Luke Carrell,Ohio State,Big Ten,,R-Sr.
+Hunter Shaw,Ohio State,Big Ten,,Sr.
+Ryan Butler,Ohio State,Big Ten,,Gr.
+Alonzo Paul Jr.,Ohio State,Big Ten,,Sr.
+Douglas Bauer,Ohio State,Big Ten,,Sr.
+Eli Anderson,Purdue,Big Ten,OF,Senior
+Brandon Rogers,Purdue,Big Ten,OF,Senior
+Jackson Bessette,Purdue,Big Ten,C,Senior
+Sam Flores,Purdue,Big Ten,IF,Senior
+Sergio DeCello,Purdue,Big Ten,UTL,Redshirt Senior
+Ross Highfill,Purdue,Big Ten,C/OF,Senior
+Avery Moore,Purdue,Big Ten,OF,Senior
+Aaron Manias,Purdue,Big Ten,IF/OF,Redshirt Senior
+CJ Richmond,Purdue,Big Ten,IF,Fifth Year
+Jarvis Evans,Purdue,Big Ten,LHP,Senior
+Nick Kolze,Purdue,Big Ten,RHP,Senior
+Gavin Beuter,Purdue,Big Ten,RHP,Senior
+Graham Kollen,Purdue,Big Ten,RHP,Graduate Student
+Zach Erdman,Purdue,Big Ten,LHP,Senior
+Austin Klug,Purdue,Big Ten,RHP,Senior
+Barron Sawyer,Purdue,Big Ten,RHP,Senior
+Jake Kramer,Purdue,Big Ten,RHP,Senior
+Carter Monke,Michigan State,Big Ten,RHP,Gr.
+Nick Williams,Michigan State,Big Ten,OF,Gr.
+Tommy Szczepanski,Michigan State,Big Ten,RHP,Sr.
+Noah Bright,Michigan State,Big Ten,C,Gr.
+JD Greeley,Michigan State,Big Ten,RHP,Gr.
+Randy Seymour,Michigan State,Big Ten,INF,Sr.
+Nolan Higgins,Michigan State,Big Ten,RHP,Sr.
+Andrew Siler,Michigan State,Big Ten,LHP,Gr.
+Noah Ruiz,Northwestern,Big Ten,INF,Gr.
+Jack Lausch,Northwestern,Big Ten,OF,Sr.
+Marty Kaplan,Northwestern,Big Ten,OF,Sr.
+Owen McElfatrick,Northwestern,Big Ten,INF,Sr.
+Drew Dickson,Northwestern,Big Ten,RHP,Sr.
+Sam Hliboki,Northwestern,Big Ten,RHP,Gr.
+Ryan Weaver,Northwestern,Big Ten,LHP,Gr.
+Charlie Kutz,Northwestern,Big Ten,LHP,Gr.
+Preston Gamster,TCU,Big 12,INF,Sr.
+Cole Cramer,TCU,Big 12,INF,Gr.
+Lane Hutchinson,TCU,Big 12,INF,Gr.
+Rob Liddington,TCU,Big 12,UT,Gr.
+Jack Arthur,TCU,Big 12,OF,R-Sr.
+Louis Rodriguez,TCU,Big 12,RHP,Sr.
+Tanner Sagouspe,TCU,Big 12,RHP,Sr.
+Nolan Johnson,TCU,Big 12,LHP,Sr.
+Colin Blanchard,TCU,Big 12,C,Sr.
+Walter Quinn,TCU,Big 12,RHP,Sr.
+Hunter Teplanszky,Baylor,Big 12,INF,Sr.
+Enzo Apodaca,Baylor,Big 12,OF,R-Sr.
+Hunter Simmons,Baylor,Big 12,1B/OF,R-Sr.
+Will Pendergrass,Baylor,Big 12,INF,R-Sr.
+Andrew Petrowski,Baylor,Big 12,RHP,R-Sr.
+Cortlan Castle,Baylor,Big 12,C,Sr.
+Ty Johnson,Baylor,Big 12,OF,Sr.
+Wesley Jordan,Baylor,Big 12,OF,Sr.
+Bryson Bales,Baylor,Big 12,LHP,R-Sr.
+Will Glatch,Baylor,Big 12,RHP,Sr.
+Patrick Hail,Baylor,Big 12,RHP,R-Sr.
+Cole Stasio,Baylor,Big 12,RHP,R-Sr.
+Caleb Bunch,Baylor,Big 12,RHP,Sr.
+Drew Leach,Baylor,Big 12,RHP,R-Sr.
+Bear Madliak,Kansas State,Big 12,C,R-Sr.
+Carlos Vasquez,Kansas State,Big 12,INF,R-Sr.
+Shintaro Inoue,Kansas State,Big 12,INF,Sr.
+Grant Gallagher,Kansas State,Big 12,INF,Sr.
+Robby Bolin,Kansas State,Big 12,OF,Sr.
+Aaron Arnold,Kansas State,Big 12,RHP,Sr.
+Kyan Lodice,Kansas State,Big 12,INF/OF,R-Sr.
+Matt Flores,Kansas State,Big 12,RHP,Sr.
+Cohen Feser,Kansas State,Big 12,RHP,R-Sr.
+Carson Liggett,Kansas State,Big 12,RHP,R-Sr.
+Tazwell Butler,Kansas State,Big 12,RHP,R-Sr.
+Robert Fortenberry,Kansas State,Big 12,LHP,Sr.
+Shea McGahan,Kansas State,Big 12,C,Gr.
+Billy Eich,Kansas State,Big 12,RHP,Sr.
+Miles Smith,Kansas State,Big 12,RHP,R-Sr.
+Lincoln Sheffield,Kansas State,Big 12,LHP,Sr.
+Max Soliz Jr.,Kansas,SEC,C/1B,Sr.
+Toby Scheidt,Kansas,SEC,RHP,Sr.
+Joshua Dykhoff,Kansas,SEC,RHP/1B,Sr.
+Carter Fink,Kansas,SEC,RHP,Gr.
+Kannon Carr,Kansas,SEC,RHP,Sr.
+Dalton Smith,Kansas,SEC,RHP,Sr.
+Dariel Osoria,Kansas,SEC,INF,Sr.
+Jordan Bach,Kansas,SEC,OF,Gr.
+Matthew Graveline,West Virginia,ACC,OF/C,Sr.
+Paul Schoenfeld,West Virginia,ACC,OF,5th
+Sean Smith,West Virginia,ACC,OF,Gr.
+Brodie Kresser,West Virginia,ACC,INF,Gr.
+Brock Wills,West Virginia,ACC,OF,Sr.
+Ian Korn,West Virginia,ACC,RHP,Gr.
+Luke Lyman,West Virginia,ACC,RHP,Sr.
+Ben Lumsden,West Virginia,ACC,OF,Sr.
+Reese Bassinger,West Virginia,ACC,RHP,Gr.
+Carson Estridge,West Virginia,ACC,RHP,Sr.
+Ben McDougal,West Virginia,ACC,LHP,Sr.
+Carter Sintek,Houston,Big 12,INF,Sr.
+Antonelli Savattere,Houston,Big 12,INF,Sr.
+Irvin Weems III,Houston,Big 12,OF,R-Sr.
+Tyler Cox,Houston,Big 12,INF,Sr.
+Cade Climie,Houston,Big 12,INF,Sr.
+Harrison Boushele,Houston,Big 12,RHP,Gr.
+Tyler Bryan,Houston,Big 12,RHP,Sr.
+Dylan Maxcey,Houston,Big 12,C,Sr.
+Paul Schmitz,Houston,Big 12,RHP,Sr.
+Ryne Rodriguez,Houston,Big 12,LHP,Sr.
+Chris Scinta,Houston,Big 12,LHP,Sr.
+Christopher Bernal,Houston,Big 12,C,R-Sr.
+Carsten Sabathia III,Houston,Big 12,INF,Sr.
+David Stich,Houston,Big 12,RHP,R-Sr.
+Roman Kimball,UCF,Big 12,Right-Handed Pitcher,Redshirt Senior
+Kevin Schoneboom,UCF,Big 12,Right-Handed Pitcher,Senior
+Braden Calise,UCF,Big 12,Infielder,Redshirt Senior
+Landon Moran,UCF,Big 12,1B/OF,Senior
+Cayden Gaskin,UCF,Big 12,Infielder/Outfielder,Senior
+Chandler Dorsey,UCF,Big 12,Right-Handed Pitcher,Senior
+Javier Crespo,UCF,Big 12,Infielder,Redshirt Senior
+JD Rogers,UCF,Big 12,Outfielder,Redshirt Senior
+Mason Wilson,UCF,Big 12,Catcher/First Baseman,Redshirt Senior
+Zak Skinner,UCF,Big 12,Catcher,Redshirt Senior
+DeAmez Ross,UCF,Big 12,Outfielder,Senior
+John Smith III,UCF,Big 12,Outfielder,Senior
+Kris Sosnowski,UCF,Big 12,Right-Handed Pitcher,Redshirt Senior
+Michael Gillen,UCF,Big 12,Right-Handed Pitcher,Senior
+Grant Siegel,UCF,Big 12,Right-Handed Pitcher,Redshirt Senior
+Patrick Graham,BYU,Big 12,Infielder,Senior
+Parker Goff,BYU,Big 12,Catcher (R/R),Senior
+Luke Anderson,BYU,Big 12,Outfielder/Infielder (R/R),Senior
+Bryker Hurdsman,BYU,Big 12,Outfielder (R/R),Senior
+Sam Hart,BYU,Big 12,Right Hand Pitcher,Graduate
+Wayland Crane,BYU,Big 12,Left Hand Pitcher,Senior
+Easton Jones,BYU,Big 12,Infielder (R/R),Senior
+Luke Sterner,BYU,Big 12,Right Hand Pitcher,Senior
+Garrison Sumner,BYU,Big 12,Right Hand Pitcher,Senior
+Ashton Johnson,BYU,Big 12,Left Hand Pitcher,Senior

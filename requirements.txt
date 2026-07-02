@@ -1,0 +1,23 @@
+# D1 Baseball Recruitment Dashboard Dependencies
+
+# Data Collection
+ncaa-bbstats>=0.1.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.18.0
+
+# Utilities
+requests>=2.31.0
+python-dateutil>=2.8.2
+
+# Optional: Advanced college baseball analytics
+# Install manually if needed:
+# pip install git+https://github.com/nathanblumenfeld/collegebaseball.git
+
